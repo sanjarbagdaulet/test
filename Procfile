@@ -1,2 +1,1 @@
-web: python main.py
-process_type: web
+web: python3 main.py
