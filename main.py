@@ -4,10 +4,10 @@ from aiogram import Bot, types, md
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils.executor import start_webhook
 
-TOKEN = os.environ['TOKEN']
+TOKEN = os.environ['619345459:AAFX1860DApsZOrmg81btTpITp0rRVcXmLA']
 
 
-WEBHOOK_HOST = 'https://deploy-heroku-bot.herokuapp.com'  # name your app
+WEBHOOK_HOST = 'https://deploying-heroku-bot.herokuapp.com'  # name your app
 WEBHOOK_PATH = '/webhook/'
 WEBHOOK_URL = f"{WEBHOOK_HOST}{WEBHOOK_PATH}"
 
